@@ -17,8 +17,17 @@
 - ⚡ 趣闻：朗诵，编程，说唱
 
 ---
-BUG
 
-Bendable：可塑造的
-Unique：独一无二的
-Gemlike：像宝石的
+A salted fish with dreams
+
+一条有梦想的咸鱼
+
+---
+
+BUG🤔
+
+Bendable -> 可塑造的
+
+Unique -> 独一无二的
+
+Gemlike -> 像宝石的
