@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThatMrBen
+- 👀 I’m interested in programming,Broadcasting and hosting,rap and so on
+- 🌱 I’m currently learning JavaScript/CSS/HTML
+- 📫 You can reach me send an email to mr.ben410410@gmail.com
+- 😄 Pronouns: INFJ Aries
