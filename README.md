@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @ThatMrBen
 - 👀 I’m interested in programming,Broadcasting and hosting,rap and so on
-- 🌱 I’m currently learning JavaScript/CSS/HTML
-- 📫 You can reach me send an email to mr.ben410410@gmail.com
+- 🌱 I’m currently learning JavaScript/CSS/HTML/Scratch/Python/Rust/Vue
+- 📫 You can reach me send an email to ThatMrBen@163.com
 - 😄 Pronouns: INFJ Aries
+
+- 👋 你好，我是 @ThatMrBen
+- 👀 我对编程、播音主持、说唱等方面感兴趣
+- 🌱 我目前正在学习 JavaScript/CSS/HTML/Scratch/Python/Rust/Vue
+- 📫 你可以通过发送电子邮件至 ThatMrBen@163.com 联系我
+- 😄 代词：INFJ 白羊座
