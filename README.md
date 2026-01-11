@@ -4,6 +4,8 @@
 - 📫 You can reach me send an email to ThatMrBen@163.com
 - 😄 Pronouns: INFJ Aries
 
+---
+
 - 👋 你好，我是 @ThatMrBen
 - 👀 我对编程、播音主持、说唱等方面感兴趣
 - 🌱 我目前正在学习 JavaScript/CSS/HTML/Scratch/Python/Rust/Vue
